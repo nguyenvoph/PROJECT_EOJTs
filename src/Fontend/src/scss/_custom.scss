@@ -1,0 +1,27 @@
+// Here you can add other styles
+//
+.backgroundFPT{
+    position: relative;
+    height: 100vh;
+    background-color: #F8963F;
+}
+
+.backgroundFPT:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    opacity: 0.15;
+    background-size: cover;
+    background-image: url("../assets/img/fpt_banner31.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.creamLayout {
+    background-color: #f7f4ef;
+}
