@@ -32,7 +32,7 @@
     "flag-icon-css": "^3.3.0",
     "font-awesome": "^4.7.0",
     "jsonwebtoken": "^8.5.1",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.3.1",
     "jwt-decode": "^2.2.0",
     "lodash": "^4.17.15",
     "mdbreact": "^4.15.0",
