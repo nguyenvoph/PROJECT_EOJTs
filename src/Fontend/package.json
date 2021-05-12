@@ -22,7 +22,7 @@
     "@progress/kendo-react-excel-export": "^3.2.2",
     "@react-pdf/renderer": "^1.6.4",
     "bootstrap": "^4.3.1",
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "classnames": "^2.2.6",
     "convert-excel-to-json": "^1.6.1",
     "core-js": "^2.6.5",
