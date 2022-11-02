@@ -32,7 +32,7 @@
     "flag-icon-css": "^3.3.0",
     "font-awesome": "^4.7.0",
     "jsonwebtoken": "^8.5.1",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.5.1",
     "jwt-decode": "^2.2.0",
     "lodash": "^4.17.15",
     "mdbreact": "^4.15.0",
@@ -60,7 +60,7 @@
     "react-validation": "^3.0.7",
     "reactjs-popup": "^1.4.1",
     "reactstrap": "^7.1.0",
-    "read-excel-file": "^4.0.1",
+    "read-excel-file": "^5.5.3",
     "simple-line-icons": "^2.4.1",
     "simple-react-validator": "^1.0.7"
   },
